@@ -37,7 +37,7 @@ const Post = ({ post, user }) => {
   };
 
   return (
-    <Card style={{ marginBottom: "20px" }}>
+    <Card style={{ marginBottom: "22px" }}>
       <CardContent>
         <Typography variant="h6">{post.title}</Typography>
         <div className="flex">
